@@ -1,1 +1,1 @@
-# RollTheDice-Assignment
+RollTheDice is a two player dice game where players take turn to roll the dice and increase their score. If the dice rolls 1, the turn is shifted to the next player and current score of the latter turns zero. If the dice rolls other numbers than 1, the number is added to the current score and from there onwards a player has two options: either save your score and shift turn to the next player or keep playing and save score later. First player to reach 100 points is declared the winner.
